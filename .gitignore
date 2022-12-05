@@ -75,3 +75,4 @@ Thumbs.db
 src/environments/*
 .vscode/launch.json
 test.js
+test.jsx
